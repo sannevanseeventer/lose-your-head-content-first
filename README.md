@@ -2,19 +2,9 @@
 Onderstaande outline ga je gedurende deze taak in jouw eigen GitHub omgeving uitwerken. 
 De instructie vind je in: [docs/INSTRUCTIONS.md](docs/INSTRUCTIONS.md)
 
-# Naam deeltaak
+# The CLient Case
 
-## Criterium 1
-<!-- instructies -->
-...
 
-## Criterium 2
-<!-- instructies -->
-...
-
-## Criterium 3
-<!-- instructies -->
-...
 
 ## Licentie
 
