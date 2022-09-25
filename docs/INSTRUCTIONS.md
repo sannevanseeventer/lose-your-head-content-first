@@ -22,17 +22,19 @@ Je leert hoe je aan de hand van de content structuur van een website de informat
 Deze opdracht gaat over deze fase van de DLC: [analyseren](#analyseren)
 
 ### Analyseren
-Uitleg..
+Bekijk de bestaande website(s) van het door jou gekozen project en breng de structuur van de huidige content in kaart.
 
 #### Aanpak
 
-1. ...
-2. ...
+1. Documenteer uit welke pagina's de website bestaat en welke pagina's op elkaar lijken wat betreft de structuur.
+2. Documenteer per pagina welke onderdelen er voorkomen en bepaal de document outline voor iedere pagina.
+3. Documenteer welke onderdelen op meerdere pagina's voorkomen. 
+4. Schets het datamodel van de huidige content.
 
 #### Materiaal 
 
-- [bron]
-- [bron]
+- [Document Outline](https://www.tempertemper.net/blog/using-the-html-document-outline)
+- [Content modeling](https://prismic.io/concepts/content-modeling)
 
 
 ## Criteria
@@ -44,7 +46,7 @@ Deze deeltaak hoort bij de gedragscriterium:
 
 Deze opdracht is done als:
 
-- [ ] De analyse van de informatie architectuur van de webiste is gedocumenteerd in de wiki
+- [ ] De analyse van de content structuur van de webiste is gedocumenteerd in de wiki
 - [ ] Een schets van het datamodel is opgenomen in de wiki
 
 
