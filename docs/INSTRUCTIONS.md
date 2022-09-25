@@ -7,9 +7,6 @@ Analyseer de content stuctuur van een bestaande website, bepaal de informatie ar
 
 Deze leertaak hoort bij sprint 14 Lose Your Head. Dit is een deeltaak die je individueel uitvoert.
 
-In het college [[collegenaam](link)] wordt behandeld ... 
-
-
 ## Doel van deze opdracht
 
 Je leert hoe je aan de hand van de content structuur van een website de informatie architectuur bepaalt en hoe je dat vervolgens vertaald naar een datamodel voor een headless cms.
