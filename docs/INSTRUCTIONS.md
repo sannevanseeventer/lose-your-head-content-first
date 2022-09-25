@@ -15,10 +15,6 @@ In het college [[collegenaam](link)] wordt behandeld ...
 Je leert hoe je aan de hand van de content structuur van een website de informatie architectuur bepaalt en hoe je dat vervolgens vertaald naar een datamodel voor een headless cms.
 
 ## Werkwijze
-![Opdrachtomschrijving](opdrachtomschrijving.png)
-
-*Hoe pak je dit aan, in welke fases van de DLC*
-
 Deze opdracht gaat over deze fase van de DLC: [analyseren](#analyseren)
 
 ### Analyseren
@@ -36,7 +32,6 @@ Bekijk de bestaande website(s) van het door jou gekozen project en breng de stru
 - [Document Outline](https://www.tempertemper.net/blog/using-the-html-document-outline)
 - [Content modeling](https://prismic.io/concepts/content-modeling)
 
-
 ## Criteria
 
 Focus sprint 14 - De focus van deze sprint ligt op het grip krijgen van de informatie architectuur van een website.
@@ -46,7 +41,7 @@ Deze deeltaak hoort bij de gedragscriterium:
 
 Deze opdracht is done als:
 
-- [ ] De analyse van de content structuur van de webiste is gedocumenteerd in de wiki
+- [ ] De analyse van de content structuur van de website is gedocumenteerd in de wiki
 - [ ] Een schets van het datamodel is opgenomen in de wiki
 
 
