@@ -1,7 +1,7 @@
 
 # Sprint 14 - Lose Your Head
 
-Analyseer de content stuctuur van een bestaande website, bepaal de informatie architectuur en schets het data model
+Analyseer de content stuctuur van een bestaande website en schets het data model
 
 ## Context
 
