@@ -1,7 +1,7 @@
 
 # Sprint 14 - Lose Your Head
 
-Analyseer de content stuctuur van een bestaande website en schets het data model
+Analyseer de content stuctuur van een bestaande website en schets het datamodel.
 
 ## Context
 
@@ -19,10 +19,11 @@ Bekijk de bestaande website(s) van het door jou gekozen project en breng de stru
 
 #### Aanpak
 
-1. Documenteer uit welke pagina's de website bestaat en welke pagina's op elkaar lijken wat betreft de structuur.
-2. Documenteer per pagina welke onderdelen er voorkomen en bepaal de document outline voor iedere pagina.
-3. Documenteer welke onderdelen op meerdere pagina's voorkomen. 
-4. Schets het datamodel van de huidige content.
+1. Documenteer uit welke pagina's de website bestaat en welke pagina's op elkaar lijken wat betreft de structuur. Maak schetsen van de verschillende paginastructuren door bijvoorbeeld wireframes en breakdown charts.
+2. Documenteer per pagina welke onderdelen er voorkomen in een content model (hint: gebruik een spreadsheet) en bepaal de document outline voor iedere pagina.
+3. Documenteer welke onderdelen op meerdere pagina's voorkomen, deze neem je slechts één keer op in je CMS! Don't repeat yourself...
+4. Schets het datamodel van de huidige content (bijvoorbeeld entity relationship diagram) en bespreek dit met een docent of medestudent.
+5. Werk als je alles helder hebt jouw schetsen uit in hifi-schetsen en zet deze in je wiki bij de analysefase.
 
 #### Materiaal 
 
@@ -34,11 +35,14 @@ Bekijk de bestaande website(s) van het door jou gekozen project en breng de stru
 Focus sprint 14 - De focus van deze sprint ligt op het grip krijgen van de informatie architectuur van een website.
 
 Deze deeltaak hoort bij de gedragscriterium:  
+* C: Documenteert op professionele wijze en bespreekt voortgang binnen het team.
 * P: Schetst om gedachten en processen te verkennen, abstracte begrippen over te brengen en de oplossingsrichting inzichtelijk te maken.
 
 Deze opdracht is done als:
 
-- [ ] De analyse van de content structuur van de website is gedocumenteerd in de wiki
-- [ ] Een schets van het datamodel is opgenomen in de wiki
+- [ ] Aan de hand van hifi-schetsen is gedocumenteerd welke pagina's in jouw project voor komen.
+- [ ] Per pagina een content model met bijbehorende document outline is gedocumenteerd.
+- [ ] Herhaalde elementen zijn benoemd
+- [ ] Een hifi-schets van het datamodel is gedocumenteerd
 
 
