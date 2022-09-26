@@ -12,6 +12,8 @@ Deze leertaak hoort bij sprint 14 Lose Your Head. Dit is een deeltaak die je ind
 Je leert hoe je aan de hand van de content structuur van een website de informatie architectuur bepaalt en hoe je dat vervolgens vertaald naar een datamodel voor een headless cms.
 
 ## Werkwijze
+<img width="1388" alt="image" src="https://user-images.githubusercontent.com/1391509/192225833-05134c1d-69c7-4a6b-8afb-a0f42de882e5.png">
+
 Deze opdracht gaat over deze fase van de DLC: [analyseren](#analyseren)
 
 ### Analyseren
