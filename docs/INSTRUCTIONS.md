@@ -5,7 +5,7 @@ Analyseer de content stuctuur van een bestaande website en schets het datamodel.
 
 ## Context
 
-Deze leertaak hoort bij sprint 14 Lose Your Head. Dit is een deeltaak die je individueel uitvoert.
+Deze deeltaak hoort bij sprint 14 Lose Your Head. Dit is een deeltaak die je individueel uitvoert.
 
 ## Doel van deze opdracht
 
