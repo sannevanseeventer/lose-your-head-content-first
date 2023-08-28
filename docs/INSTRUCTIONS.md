@@ -33,13 +33,9 @@ Bekijk de bestaande website(s) van het door jou gekozen project en breng de stru
 - [Document Outline](https://www.tempertemper.net/blog/using-the-html-document-outline)
 - [Content modeling](https://prismic.io/concepts/content-modeling)
 
-## Criteria
+## Definitions of Done
 
 Focus sprint 14 - De focus van deze sprint ligt op het grip krijgen van de informatie architectuur van een website.
-
-Deze deeltaak hoort bij de gedragscriterium:  
-<!-- * C: Documenteert op professionele wijze en bespreekt voortgang binnen het team. -->
-* P: Schetst om gedachten en processen te verkennen, abstracte begrippen over te brengen en de oplossingsrichting inzichtelijk te maken.
 
 Deze opdracht is done als:
 
