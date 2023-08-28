@@ -9,7 +9,7 @@ Deze deeltaak hoort bij sprint 14 Lose Your Head. Dit is een deeltaak die je ind
 
 ## Doel van deze opdracht
 
-Je leert hoe je aan de hand van de content structuur van een website de informatie architectuur bepaalt en hoe je dat vervolgens vertaald naar een datamodel voor een headless cms.
+Je leert hoe je aan de hand van de content structuur van een website de informatie architectuur bepaalt en hoe je dat vervolgens vertaalt naar een datamodel voor een headless cms.
 
 ## Werkwijze
 <img width="1388" alt="image" src="https://user-images.githubusercontent.com/1391509/192225833-05134c1d-69c7-4a6b-8afb-a0f42de882e5.png">
@@ -39,9 +39,9 @@ Focus sprint 14 - De focus van deze sprint ligt op het grip krijgen van de infor
 
 Deze opdracht is done als:
 
-- [ ] Aan de hand van hifi-schetsen is gedocumenteerd welke pagina's in jouw project voor komen.
+- [ ] Aan de hand van hifi-schetsen is gedocumenteerd welke pagina's in jouw project voorkomen.
 - [ ] Per pagina een content model met bijbehorende document outline is gedocumenteerd.
-- [ ] Herhaalde elementen zijn benoemd
-- [ ] Een hifi-schets van het datamodel is gedocumenteerd
+- [ ] Herhaalde elementen zijn benoemd.
+- [ ] Een hifi-schets van het datamodel is gedocumenteerd.
 
 
