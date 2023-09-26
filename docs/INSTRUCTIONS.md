@@ -31,7 +31,7 @@ Bekijk de bestaande website(s) van het door jou gekozen project en breng de stru
 
 - [8 steps to content first design @ UX-Design](https://uxdesign.cc/8-steps-to-content-first-design-fa2885b9caee)
 - [Document Outline](https://www.tempertemper.net/blog/using-the-html-document-outline)
-- [Content modeling](https://prismic.io/concepts/content-modeling)
+- [The essential guide to content modeling (in Hygraph)](https://hygraph.com/blog/essential-guide-to-content-modeling)
 
 ## Definitions of Done
 
