@@ -19,7 +19,8 @@ Deze deeltaak hoort bij de leertaak:
 Je leert hoe je aan de hand van de content structuur van een website de informatie architectuur bepaalt en hoe je dat vervolgens vertaalt naar een datamodel voor een headless cms.
 
 ## Werkwijze
-<img width="1445" alt="image" src="https://github.com/fdnd-task/lose-your-head-content-first/assets/1061632/b94b8fb0-9946-4826-a14a-81eb8d3e310a">
+<img width="1313" alt="image" src="https://github.com/fdnd-task/lose-your-head-content-first/assets/1391509/a581d316-0aa9-49c5-b522-65a72021f5b6">
+
 
 Deze opdracht gaat over deze fase van de DLC: [analyseren](#analyseren)
 
@@ -28,9 +29,10 @@ Bekijk de bestaande website(s) van het door jou gekozen project en breng de stru
 
 #### Aanpak
 
-1. Documenteer uit welke (mogelijke) pagina’s jouw opdracht bestaat en welke pagina's op elkaar lijken wat betreft de structuur. ts wireframes van de verschillende paginastructuren
-2. Schets het datamodel van de content.
-3. Bespreek dit met een docent of medestudent
+1. Documenteer uit welke (mogelijke) pagina’s jouw opdracht bestaat en welke pagina's op elkaar lijken wat betreft de structuur. 
+2. Schets wireframes van de verschillende paginastructuren
+3. Schets het datamodel van de content.
+4. Bespreek dit met een docent of medestudent
 
 #### Materiaal 
 
