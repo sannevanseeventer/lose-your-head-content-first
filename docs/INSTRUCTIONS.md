@@ -45,8 +45,7 @@ Bekijk de bestaande website(s) van het door jou gekozen project en breng de stru
 Deze opdracht is done als:
 
 - [ ] Aan de hand van schetsen is gedocumenteerd welke pagina's in jouw project voorkomen.
-- [ ] Per pagina een content model met bijbehorende document outline is gedocumenteerd.
-- [ ] Herhaalde elementen zijn benoemd.
-- [ ] Een hschets van het datamodel is gedocumenteerd.
+- [ ] Per pagina een content model is gedocumenteerd.
+- [ ] Herhaalde elementen zijn aangegeven
 
 
