@@ -12,7 +12,7 @@ Deze deeltaak hoort bij sprint 14 Lose Your Head. Dit is een deeltaak die je ind
 Je leert hoe je aan de hand van de content structuur van een website de informatie architectuur bepaalt en hoe je dat vervolgens vertaalt naar een datamodel voor een headless cms.
 
 ## Werkwijze
-<img width="1388" alt="image" src="https://user-images.githubusercontent.com/1391509/192225833-05134c1d-69c7-4a6b-8afb-a0f42de882e5.png">
+<img width="1445" alt="image" src="https://github.com/fdnd-task/lose-your-head-content-first/assets/1061632/b94b8fb0-9946-4826-a14a-81eb8d3e310a">
 
 Deze opdracht gaat over deze fase van de DLC: [analyseren](#analyseren)
 
