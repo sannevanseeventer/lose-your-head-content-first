@@ -1,7 +1,7 @@
 
 # Sprint 14 - Lose Your Head
 
-Analyseer de content stuctuur van een bestaande website en schets het datamodel.
+Analyseer de content stuctuur van de bestaande website(s) van de opdrachtgever en schets het datamodel. Voeg waar nodig ook de content structuur van nog toe te voegen content.
 
 ## Context
 
@@ -25,7 +25,7 @@ Bekijk de bestaande website(s) van het door jou gekozen project en breng de stru
 2. Documenteer per pagina welke onderdelen er voorkomen in een content model (hint: gebruik een spreadsheet) en bepaal de document outline voor iedere pagina.
 3. Documenteer welke onderdelen op meerdere pagina's voorkomen, deze neem je slechts één keer op in je CMS! Don't repeat yourself...
 4. Schets het datamodel van de huidige content (bijvoorbeeld entity relationship diagram) en bespreek dit met een docent of medestudent.
-5. Werk als je alles helder hebt jouw schetsen uit in hifi-schetsen en zet deze in je wiki bij de analysefase.
+5. Documenteer jou schetsen en zet deze in je wiki bij de analysefase.
 
 #### Materiaal 
 
