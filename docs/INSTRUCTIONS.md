@@ -36,8 +36,6 @@ Bekijk de bestaande website(s) van het door jou gekozen project en breng de stru
 
 ## Definitions of Done
 
-Focus sprint 14 - De focus van deze sprint ligt op het grip krijgen van de informatie architectuur van een website.
-
 Deze opdracht is done als:
 
 - [ ] Aan de hand van schetsen is gedocumenteerd welke pagina's in jouw project voorkomen.
