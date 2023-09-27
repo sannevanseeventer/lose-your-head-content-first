@@ -37,7 +37,6 @@ Bekijk de bestaande website(s) van het door jou gekozen project en breng de stru
 #### Materiaal 
 
 - [8 steps to content first design @ UX-Design](https://uxdesign.cc/8-steps-to-content-first-design-fa2885b9caee)
-- [Document Outline](https://www.tempertemper.net/blog/using-the-html-document-outline)
 - [Content modelling (in Hygraph)](https://hygraph.com/docs/getting-started/fundamentals/content-modeling)
 - [The essential guide to content modeling](https://hygraph.com/blog/essential-guide-to-content-modeling)
 
