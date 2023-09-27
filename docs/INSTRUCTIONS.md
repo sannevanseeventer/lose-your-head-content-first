@@ -5,7 +5,14 @@ Analyseer de content stuctuur van de bestaande website(s) van de opdrachtgever e
 
 ## Context
 
-Deze deeltaak hoort bij sprint 14 Lose Your Head. Dit is een deeltaak die je individueel uitvoert.
+Deze deeltaak hoort bij sprint 14 Lose Your Head. 
+Dit is een deeltaak die je individueel uitvoert.
+
+In het college S14W2-02-informatie-architectuur wordt behandeld hoe het structureren en organiseren van informatie op de frontend invloed heeft op de Content modelling.
+
+Deze deeltaak hoort bij de leertaak:
+- [Lose Your Head - the Client Case](https://github.com/fdnd-task/ose-your-head-the-client-case/)
+
 
 ## Doel van deze opdracht
 
