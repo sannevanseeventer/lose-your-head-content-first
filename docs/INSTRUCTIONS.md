@@ -21,7 +21,7 @@ Bekijk de bestaande website(s) van het door jou gekozen project en breng de stru
 
 #### Aanpak
 
-1. Documenteer uit welke pagina's de website bestaat en welke pagina's op elkaar lijken wat betreft de structuur. Maak schetsen van de verschillende paginastructuren door middel van bijvoorbeeld wireflows en breakdown charts.
+1. Documenteer uit welke (mogelijke) pagina's de website bestaat en welke pagina's op elkaar lijken wat betreft de structuur. Maak schetsen van de verschillende paginastructuren door middel van bijvoorbeeld wireflows en breakdown charts.
 2. Documenteer per pagina welke onderdelen er voorkomen in een content model (hint: gebruik een spreadsheet) en bepaal de document outline voor iedere pagina.
 3. Documenteer welke onderdelen op meerdere pagina's voorkomen, deze neem je slechts één keer op in je CMS! Don't repeat yourself...
 4. Schets het datamodel van de huidige content (bijvoorbeeld entity relationship diagram) en bespreek dit met een docent of medestudent.
