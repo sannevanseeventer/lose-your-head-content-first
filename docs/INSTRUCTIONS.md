@@ -40,9 +40,9 @@ Focus sprint 14 - De focus van deze sprint ligt op het grip krijgen van de infor
 
 Deze opdracht is done als:
 
-- [ ] Aan de hand van hifi-schetsen is gedocumenteerd welke pagina's in jouw project voorkomen.
+- [ ] Aan de hand van schetsen is gedocumenteerd welke pagina's in jouw project voorkomen.
 - [ ] Per pagina een content model met bijbehorende document outline is gedocumenteerd.
 - [ ] Herhaalde elementen zijn benoemd.
-- [ ] Een hifi-schets van het datamodel is gedocumenteerd.
+- [ ] Een hschets van het datamodel is gedocumenteerd.
 
 
