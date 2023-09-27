@@ -1,5 +1,5 @@
 
-# Sprint 14 - Lose Your Head
+# Lose Your Head - Content First
 
 Analyseer de content stuctuur van de bestaande website(s) van de opdrachtgever en schets het datamodel. Voeg waar nodig ook de content structuur van nog toe te voegen content.
 
