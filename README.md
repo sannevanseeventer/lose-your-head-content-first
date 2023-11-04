@@ -1,6 +1,7 @@
-> _Fork_ deze deeltaak en ga aan de slag. 
-Onderstaande outline ga je gedurende deze taak in jouw eigen GitHub omgeving uitwerken. 
-De instructie vind je in: [docs/INSTRUCTIONS.md](docs/INSTRUCTIONS.md)
+## Data content model
+In deze schets is de opdeling van pagina's te zien en welke Hygraph content types we gebruiken per pagina.
+![SPATwater-60 2](https://github.com/sannevanseeventer/lose-your-head-the-client-case/assets/112857444/c8f726c7-d97e-4aa1-8a40-57490c7752c4)
+
 
 ## Licentie
 
